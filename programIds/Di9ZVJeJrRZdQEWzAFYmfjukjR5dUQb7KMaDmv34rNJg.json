@@ -1,0 +1,13 @@
+{
+  "totalUsdBalance": "0 $USDC",
+  "totalSolBalance": "0 SOL",
+  "programId": "Di9ZVJeJrRZdQEWzAFYmfjukjR5dUQb7KMaDmv34rNJg",
+  "realms": [
+    {
+      "realmId": "9Waj7NNTzEhyHf1j1F36xgtnXaLoAxVBFhf6VxE9fgaf",
+      "name": "Parcl DAO",
+      "solBalance": 0,
+      "usdBalance": 0
+    }
+  ]
+}

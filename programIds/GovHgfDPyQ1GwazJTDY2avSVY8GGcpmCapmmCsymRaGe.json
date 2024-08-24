@@ -1,0 +1,13 @@
+{
+  "totalUsdBalance": "0 $USDC",
+  "totalSolBalance": "0 SOL",
+  "programId": "GovHgfDPyQ1GwazJTDY2avSVY8GGcpmCapmmCsymRaGe",
+  "realms": [
+    {
+      "realmId": "FiG6YoqWnVzUmxFNukcRVXZC51HvLr6mts8nxcm7ScR8",
+      "name": "Psy Finance",
+      "solBalance": 0,
+      "usdBalance": 0
+    }
+  ]
+}

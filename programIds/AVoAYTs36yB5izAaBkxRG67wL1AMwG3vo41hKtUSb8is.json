@@ -1,0 +1,13 @@
+{
+  "totalUsdBalance": "0 $USDC",
+  "totalSolBalance": "0 SOL",
+  "programId": "AVoAYTs36yB5izAaBkxRG67wL1AMwG3vo41hKtUSb8is",
+  "realms": [
+    {
+      "realmId": "3MMDxjv1SzEFQDKryT7csAvaydYtrgMAc3L9xL9CVLCg",
+      "name": "Project Serum",
+      "solBalance": 0,
+      "usdBalance": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "totalUsdBalance": "0 $USDC",
+  "totalSolBalance": "0 SOL",
+  "programId": "hgovkRU6Ghe1Qoyb54HdSLdqN7VtxaifBzRmh9jtd3S",
+  "realms": [
+    {
+      "realmId": "2VfPJn8ML1hNBnsEBo7SzmG11UJc7gbY8b23A3K8expd",
+      "name": "Helium DAO",
+      "solBalance": 0,
+      "usdBalance": 0
+    },
+    {
+      "realmId": "8UQNtD5Zw8ijB7ZpGiPLodKXMxtVyQmtu1AEztd3p6Po",
+      "name": "Helium IOT SubDAO",
+      "solBalance": 0,
+      "usdBalance": 0
+    },
+    {
+      "realmId": "7yyaEqDNfgqS6cgmPmJGVoU5dkwayPFRq55VmNDR79ij",
+      "name": "Helium MOBILE SubDAO",
+      "solBalance": 0,
+      "usdBalance": 0
+    }
+  ]
+}

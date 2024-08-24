@@ -1,0 +1,13 @@
+{
+  "totalUsdBalance": "0 $USDC",
+  "totalSolBalance": "0 SOL",
+  "programId": "MGovW65tDhMMcpEmsegpsdgvzb6zUwGsNjhXFxRAnjd",
+  "realms": [
+    {
+      "realmId": "5o6gEoeJBpuXT1H1ijFTq3KcSGx7ayabdG2hji7cB3FG",
+      "name": "MEAN DAO",
+      "solBalance": 0,
+      "usdBalance": 0
+    }
+  ]
+}

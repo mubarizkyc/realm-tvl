@@ -1,0 +1,13 @@
+{
+  "totalUsdBalance": "0 $USDC",
+  "totalSolBalance": "0 SOL",
+  "programId": "jdaoDN37BrVRvxuXSeyR7xE5Z9CAoQApexGrQJbnj6V",
+  "realms": [
+    {
+      "realmId": "5g94Ver64ruf9CGBL3k2oQGdKCUt4QKjN7NQojSrHAwH",
+      "name": "Jungle DeFi Community DAO",
+      "solBalance": 0,
+      "usdBalance": 0
+    }
+  ]
+}

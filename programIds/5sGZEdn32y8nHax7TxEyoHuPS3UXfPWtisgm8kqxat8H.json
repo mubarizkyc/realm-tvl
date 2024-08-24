@@ -1,0 +1,13 @@
+{
+  "totalUsdBalance": "0 $USDC",
+  "totalSolBalance": "0 SOL",
+  "programId": "5sGZEdn32y8nHax7TxEyoHuPS3UXfPWtisgm8kqxat8H",
+  "realms": [
+    {
+      "realmId": "4BNkheiMATVVcyJnGpjPbbPvFuKMx3cCDmkEbtnTz2iV",
+      "name": "Phantasia",
+      "solBalance": 0,
+      "usdBalance": 0
+    }
+  ]
+}

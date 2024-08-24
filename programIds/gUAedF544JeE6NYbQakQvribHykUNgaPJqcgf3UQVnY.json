@@ -1,0 +1,19 @@
+{
+  "totalUsdBalance": "0 $USDC",
+  "totalSolBalance": "0 SOL",
+  "programId": "gUAedF544JeE6NYbQakQvribHykUNgaPJqcgf3UQVnY",
+  "realms": [
+    {
+      "realmId": "5piGF94RbCqaogoFFWA9cYmt29qUpQejGCEjRKuwCz7d",
+      "name": "Ukraine.SOL",
+      "solBalance": 0,
+      "usdBalance": 0
+    },
+    {
+      "realmId": "HbdBjuyRtxJd4zCMCsvg64ajtxqk4vWogf8FtQpZcs54",
+      "name": "#Unchain_Ukraine",
+      "solBalance": 0,
+      "usdBalance": 0
+    }
+  ]
+}

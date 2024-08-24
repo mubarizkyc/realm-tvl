@@ -1,0 +1,13 @@
+{
+  "totalUsdBalance": "0 $USDC",
+  "totalSolBalance": "0 SOL",
+  "programId": "G41fmJzd29v7Qmdi8ZyTBBYa98ghh3cwHBTexqCG1PQJ",
+  "realms": [
+    {
+      "realmId": "G3FBDbsRiJjcjYuazrH6mRShFMjr9RQn4SxVVxocJavA",
+      "name": "Serum DAO (NEW)",
+      "solBalance": 0,
+      "usdBalance": 0
+    }
+  ]
+}

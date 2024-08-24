@@ -1,0 +1,13 @@
+{
+  "totalUsdBalance": "0 $USDC",
+  "totalSolBalance": "0 SOL",
+  "programId": "GmtpXy362L8cZfkRmTZMYunWVe8TyRjX5B7sodPZ63LJ",
+  "realms": [
+    {
+      "realmId": "2sEcHwzsNBwNoTM1yAXjtF1HTMQKUAXf8ivtdpSpo9Fv",
+      "name": "Metaplex Foundation",
+      "solBalance": 0,
+      "usdBalance": 0
+    }
+  ]
+}

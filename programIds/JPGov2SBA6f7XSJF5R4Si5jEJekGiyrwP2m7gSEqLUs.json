@@ -1,0 +1,13 @@
+{
+  "totalUsdBalance": "0 $USDC",
+  "totalSolBalance": "0 SOL",
+  "programId": "JPGov2SBA6f7XSJF5R4Si5jEJekGiyrwP2m7gSEqLUs",
+  "realms": [
+    {
+      "realmId": "78TbURwqF71Qk4w1Xp6Jd2gaoQb6EC7yKBh5xDJmq6qh",
+      "name": "Jet DAO",
+      "solBalance": 0,
+      "usdBalance": 0
+    }
+  ]
+}

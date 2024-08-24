@@ -1,0 +1,13 @@
+{
+  "totalUsdBalance": "0 $USDC",
+  "totalSolBalance": "0 SOL",
+  "programId": "pytGY6tWRgGinSCvRLnSv4fHfBTMoiDGiCsesmHWM6U",
+  "realms": [
+    {
+      "realmId": "4ct8XU5tKbMNRphWy4rePsS9kBqPhDdvZoGpmprPaug4",
+      "name": "Pyth Network",
+      "solBalance": 0,
+      "usdBalance": 0
+    }
+  ]
+}

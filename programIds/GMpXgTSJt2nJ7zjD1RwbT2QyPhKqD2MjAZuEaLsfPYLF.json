@@ -1,0 +1,13 @@
+{
+  "totalUsdBalance": "0 $USDC",
+  "totalSolBalance": "0 SOL",
+  "programId": "GMpXgTSJt2nJ7zjD1RwbT2QyPhKqD2MjAZuEaLsfPYLF",
+  "realms": [
+    {
+      "realmId": "Cdui9Va8XnKVng3VGZXcfBFF6XSxbqSi2XruMc7iu817",
+      "name": "Metaplex Genesis",
+      "solBalance": 0,
+      "usdBalance": 0
+    }
+  ]
+}
