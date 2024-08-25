@@ -18,7 +18,12 @@ for use of these endpoints in application skip
 
 This repo wll be updated monthly however if you want to update by yourself:
 
-Set up your mainnet solana_rpc in .env file then run:
+Set up your mainnet solana_rpc in .env file
+```console
+REALMS_DATA=mainnet-beta.json
+SOLANA_RPC=YOUR_SOLANA_RPC
+```
+then run:
 
 ```console
 npm install fs path url axios sleep governance-idl-sdk solana/web3.js
