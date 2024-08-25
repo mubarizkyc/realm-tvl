@@ -1,13 +1,12 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { updateRealmBalances } from './fetcher';
+import { updateRealmBalances, data_url } from './fetcher';
 import * as dotenv from 'dotenv';
 dotenv.config();
 
 
 const localFilePath: string = path.join(__dirname, process.env.REALMS_DATA as string);
-const data_url: string = process.env.REALMS_DATA_URL as string;
 const programIdsFilePath: string = path.join(__dirname, 'programId.json');
 
 interface Dao {
