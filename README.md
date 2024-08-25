@@ -1,3 +1,4 @@
+# Last Update : 24/8/24
 # Endpoints 
 
 get all GovernenceIds on Solana
@@ -15,8 +16,13 @@ for use of these endpoints in application skip
 ```
 # Updating Data
 
+This repo wll be updated monthly however if you want to update by yourself:
+
 Set up your mainnet solana_rpc in .env file then run:
 
+```console
+npm install fs path url axios sleep governance-idl-sdk solana/web3.js
+```
 ```console
  ts-node index.ts update programid
 ```
