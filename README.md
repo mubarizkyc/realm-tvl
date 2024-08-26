@@ -19,6 +19,8 @@ for use of these endpoints in application skip
 This repo wll be updated monthly however if you want to update by yourself:
 
 Set up your mainnet solana_rpc in .env file
+
+Recommended : https://www.helius.dev/
 ```console
 REALMS_DATA=mainnet-beta.json
 SOLANA_RPC=YOUR_SOLANA_RPC
