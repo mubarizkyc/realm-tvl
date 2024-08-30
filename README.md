@@ -1,4 +1,4 @@
-# Last Update : 24/8/24
+# Last Update : 31/8/24
 # Endpoints 
 
 get all GovernenceIds on Solana
