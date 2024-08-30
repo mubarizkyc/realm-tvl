@@ -136,9 +136,9 @@
     "communityMint": "Fj1tPZzgBnsbQMWgJM3CNjM8NZ9XHED7hhnHTN6GNZAF"
   },
   {
-    "symbol": "XAND",
+    "symbol": "XANDC",
     "category": "defi",
-    "displayName": "Xandeum DAO",
+    "displayName": "Xandeum DevNet DAO",
     "programId": "DcG2PZTnj8s4Pnmp7xJswniCskckU5E6XsrKuyD7NYFK",
     "realmId": "CFprdZRYitjPYEDUQKDQZwao1jcRcU1z1GsFspMpN8Ci",
     "communityMint": "2j437Lt84XvysJiYbXTSJfAMy26Et9HiVGFvGFp8nYWH",
@@ -3533,7 +3533,7 @@
     "symbol": "LABS",
     "category": "defi",
     "bannerImage": "/realms/EpicentralLabsDAO/EpicentralDAOBanner.png",
-    "displayName": "Epicentral Labs DAO",
+    "displayName": "EpicentralDAO",
     "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
     "realmId": "5PP7vKjJyLw1MR55LoexRsCj3CpZj9MdD6aNXRrvxG42",
     "communityMint": "LABSh5DTebUcUbEoLzXKCiXFJLecDFiDWiBGUU1GpxR",

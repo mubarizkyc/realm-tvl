@@ -1,13 +1,12 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "36.72 $USDC",
   "programId": "DcG2PZTnj8s4Pnmp7xJswniCskckU5E6XsrKuyD7NYFK",
   "realms": [
     {
       "realmId": "CFprdZRYitjPYEDUQKDQZwao1jcRcU1z1GsFspMpN8Ci",
-      "name": "Xandeum DAO",
-      "solBalance": 0,
-      "usdBalance": 0
+      "name": "Xandeum DevNet DAO",
+      "symbol": "XANDC",
+      "usdBalance": 36.72
     }
   ]
 }

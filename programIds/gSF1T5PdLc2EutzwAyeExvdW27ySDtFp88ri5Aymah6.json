@@ -1,11 +1,10 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "0.00 $USDC",
   "programId": "gSF1T5PdLc2EutzwAyeExvdW27ySDtFp88ri5Aymah6",
   "realms": [
     {
       "realmId": "EtZWAeFFRC5k6uesap1F1gkHFimsL2HqttVTNAeN86o8",
-      "solBalance": 0,
+      "symbol": "SCTF1",
       "usdBalance": 0
     }
   ]

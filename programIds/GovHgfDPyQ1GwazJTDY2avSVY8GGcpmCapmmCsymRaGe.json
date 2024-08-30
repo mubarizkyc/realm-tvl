@@ -1,13 +1,12 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "725344.31 $USDC",
   "programId": "GovHgfDPyQ1GwazJTDY2avSVY8GGcpmCapmmCsymRaGe",
   "realms": [
     {
       "realmId": "FiG6YoqWnVzUmxFNukcRVXZC51HvLr6mts8nxcm7ScR8",
       "name": "Psy Finance",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "PSY",
+      "usdBalance": 725344.31
     }
   ]
 }

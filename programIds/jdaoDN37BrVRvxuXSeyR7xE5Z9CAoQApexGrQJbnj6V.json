@@ -1,13 +1,12 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "4668.65 $USDC",
   "programId": "jdaoDN37BrVRvxuXSeyR7xE5Z9CAoQApexGrQJbnj6V",
   "realms": [
     {
       "realmId": "5g94Ver64ruf9CGBL3k2oQGdKCUt4QKjN7NQojSrHAwH",
       "name": "Jungle DeFi Community DAO",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "J-JFI",
+      "usdBalance": 4668.65
     }
   ]
 }

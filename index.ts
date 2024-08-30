@@ -13,15 +13,17 @@ interface Dao {
     displayName: string;
     programId: string;
     realmId: string;
-    SOL_Treasury: string;
     Token_Treasury: string;
-
 }
 
 async function getDaosData(): Promise<Dao[]> {
     console.log('Fetching data...');
     const response = await fetch(data_url);
     const data: Dao[] = await response.json() as Dao[];
+
+    // Ensure the directory exists
+    fs.mkdirSync(path.dirname(localFilePath), { recursive: true });
+
     fs.writeFileSync(localFilePath, JSON.stringify(data, null, 2));
     return data;
 }
@@ -52,6 +54,7 @@ async function main(args: string[]): Promise<void> {
 
         }
     }
+
 }
 
 main(process.argv.slice(2)).catch(error => console.error('Error:', error));

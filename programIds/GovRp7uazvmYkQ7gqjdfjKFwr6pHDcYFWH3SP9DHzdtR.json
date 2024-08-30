@@ -1,13 +1,12 @@
 {
-  "totalUsdBalance": "34282.12739 $USDC",
-  "totalSolBalance": "62.01888864 SOL",
+  "totalUsdBalance": "38010.01 $USDC",
   "programId": "GovRp7uazvmYkQ7gqjdfjKFwr6pHDcYFWH3SP9DHzdtR",
   "realms": [
     {
       "realmId": "8KG5Z3thhSwQCVWdnNdPZV5JQJya2gNaBELjLA8xhEcs",
       "name": "The $GREED Experiment",
-      "solBalance": 62.01888864,
-      "usdBalance": 34282.12739
+      "symbol": "GREED",
+      "usdBalance": 38010.01
     }
   ]
 }

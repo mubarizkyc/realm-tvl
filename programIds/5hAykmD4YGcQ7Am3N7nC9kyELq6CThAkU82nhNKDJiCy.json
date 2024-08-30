@@ -1,13 +1,12 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "19.54 $USDC",
   "programId": "5hAykmD4YGcQ7Am3N7nC9kyELq6CThAkU82nhNKDJiCy",
   "realms": [
     {
       "realmId": "759qyfKDMMuo9v36tW7fbGanL63mZFPNbhU7zjPrkuGK",
       "name": "Socean",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "SOCEAN",
+      "usdBalance": 19.54
     }
   ]
 }

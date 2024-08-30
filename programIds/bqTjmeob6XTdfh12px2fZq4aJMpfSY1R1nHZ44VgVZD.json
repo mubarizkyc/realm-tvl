@@ -1,12 +1,11 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "0.00 $USDC",
   "programId": "bqTjmeob6XTdfh12px2fZq4aJMpfSY1R1nHZ44VgVZD",
   "realms": [
     {
       "realmId": "8o1tcKzRsEFAWYzi7Ge2cyotCaQW6vt5f2dy2HkWmemg",
       "name": "Cardinal",
-      "solBalance": 0,
+      "symbol": "CDNL",
       "usdBalance": 0
     }
   ]

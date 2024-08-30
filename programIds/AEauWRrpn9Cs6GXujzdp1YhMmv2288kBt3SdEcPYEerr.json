@@ -1,13 +1,12 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "52906151.99 $USDC",
   "programId": "AEauWRrpn9Cs6GXujzdp1YhMmv2288kBt3SdEcPYEerr",
   "realms": [
     {
       "realmId": "DA5G7QQbFioZ6K33wQcH8fVdgFcnaDjLD7DLQkapZg5X",
       "name": "Metaplex DAO",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "Metaplex",
+      "usdBalance": 52906151.99
     }
   ]
 }

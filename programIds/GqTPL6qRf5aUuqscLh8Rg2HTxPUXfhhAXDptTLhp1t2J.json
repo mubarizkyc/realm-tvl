@@ -1,31 +1,30 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "72997129.25 $USDC",
   "programId": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J",
   "realms": [
     {
       "realmId": "DPiH3H3c7t47BMxqTxLsuPQpEC6Kne8GA9VXbxpnZxFE",
       "name": "Mango DAO",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "MNGO",
+      "usdBalance": 71401725.67
     },
     {
       "realmId": "7CWXhWsMXbfx8caHcpCbSQKDpsaLNu65YoBLoGfogzk6",
       "name": "Mango Treasury Council",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "MNGO-TC",
+      "usdBalance": 1569842.39
     },
     {
       "realmId": "6JFaFouiN4ssPc38ey1hXKSxyFWZzZy9w5Xt5xLzeozm",
       "name": "Mango Game Master",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "MNGO-GM",
+      "usdBalance": 24232.89
     },
     {
       "realmId": "Eb69t8zTkNbBViLRykbgBofr8PbwvZoAX4KicVcNNwkj",
       "name": "Mangolana Council",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "MangolanaCouncil",
+      "usdBalance": 1328.3
     }
   ]
 }

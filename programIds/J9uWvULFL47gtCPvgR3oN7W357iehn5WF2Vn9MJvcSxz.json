@@ -1,12 +1,11 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "0.00 $USDC",
   "programId": "J9uWvULFL47gtCPvgR3oN7W357iehn5WF2Vn9MJvcSxz",
   "realms": [
     {
       "realmId": "66Du7mXgS2KMQBUk6m9h3TszMjqZqdWhsG3Duuf69VNW",
       "name": "Orca DAO",
-      "solBalance": 0,
+      "symbol": "ORCA",
       "usdBalance": 0
     }
   ]

@@ -1,12 +1,11 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "0.00 $USDC",
   "programId": "HT19EcD68zn7NoCF79b2ucQF8XaMdowyPt5ccS6g1PUx",
   "realms": [
     {
       "realmId": "8HZ4V94dtojrTpdUpWrfstr7bEhRnZZHn8jotfns9L9x",
       "name": "Ratio Finance",
-      "solBalance": 0,
+      "symbol": "RatioFinance",
       "usdBalance": 0
     }
   ]

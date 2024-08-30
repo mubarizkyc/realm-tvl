@@ -1,12 +1,11 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "0.00 $USDC",
   "programId": "ALLGnZikNaJQeN4KCAbDjZRSzvSefUdeTpk18yfizZvT",
   "realms": [
     {
       "realmId": "A7nud4wxpAySc7Ai11vwXtkez79tHvcEvSquFBxw4iDh",
       "name": "ALLOVR DAO",
-      "solBalance": 0,
+      "symbol": "ALLOVR",
       "usdBalance": 0
     }
   ]

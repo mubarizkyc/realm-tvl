@@ -1,13 +1,12 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "1.53 $USDC",
   "programId": "dgov7NC8iaumWw3k8TkmLDybvZBCmd1qwxgLAGAsWxf",
   "realms": [
     {
       "realmId": "FVVXu18aNUqyFCfq8sGktPM62mqJAGaenv4z6UGUs5em",
       "name": "Drift Protocol",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "DRIFT",
+      "usdBalance": 1.53
     }
   ]
 }

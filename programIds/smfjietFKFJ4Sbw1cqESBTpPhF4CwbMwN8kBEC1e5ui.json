@@ -1,12 +1,11 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "0.00 $USDC",
   "programId": "smfjietFKFJ4Sbw1cqESBTpPhF4CwbMwN8kBEC1e5ui",
   "realms": [
     {
       "realmId": "Dmn5q2SwkjZBKJGwULEWzK8zeZ2ES6JQvHKB297tAHXY",
       "name": "Strangemood Foundation",
-      "solBalance": 0,
+      "symbol": "MOOD",
       "usdBalance": 0
     }
   ]

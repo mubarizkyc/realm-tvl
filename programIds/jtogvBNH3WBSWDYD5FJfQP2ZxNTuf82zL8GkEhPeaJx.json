@@ -1,13 +1,12 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "518957619.47 $USDC",
   "programId": "jtogvBNH3WBSWDYD5FJfQP2ZxNTuf82zL8GkEhPeaJx",
   "realms": [
     {
       "realmId": "jjCAwuuNpJCNMLAanpwgJZ6cdXzLPXe2GfD6TaDQBXt",
       "name": "Jito",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "Jito",
+      "usdBalance": 518957619.47
     }
   ]
 }

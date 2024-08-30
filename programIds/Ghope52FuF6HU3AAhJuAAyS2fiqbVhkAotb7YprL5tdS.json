@@ -1,67 +1,66 @@
 {
-  "totalUsdBalance": "0 $USDC",
-  "totalSolBalance": "0 SOL",
+  "totalUsdBalance": "37488.69 $USDC",
   "programId": "Ghope52FuF6HU3AAhJuAAyS2fiqbVhkAotb7YprL5tdS",
   "realms": [
     {
       "realmId": "CS3HBXBdZ44g7FdZfgPAz6nSBe4FSThg6ANuVdowTT6G",
       "name": "The Sanctuary",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "$HOPE",
+      "usdBalance": 25.55
     },
     {
       "realmId": "2J1YbWH991rv7ZAsUVdV2cWXNf89XNuhqUsabaAP3Hc1",
       "name": "The Exiled Apes",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "$XAPE",
+      "usdBalance": 23079.93
     },
     {
       "realmId": "8x3bs2CUu7FZCw9zoTz29eBNwKjfJiCHjWz4T53NWLbJ",
       "name": "Bears Reloaded",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "Bears",
+      "usdBalance": 364.18
     },
     {
       "realmId": "8uhFgGgDWF23pNDS17a6TemzrjSrFhKN1skGXTjjRszj",
       "name": "SlattsDAO",
-      "solBalance": 0,
+      "symbol": "SlattsDAO",
       "usdBalance": 0
     },
     {
       "realmId": "2ZcZV69pMY5rrPSNSsAP7y7QgQygzAgDYKvVFvf6H9fR",
       "name": "SenshiDAO",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "Senshi",
+      "usdBalance": 1791.3
     },
     {
       "realmId": "9osGkueZJvHdZ8RbcGjgW7usUyBSCKQZSuFrujReXZpx",
       "name": "DAKU DAO",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "DAKU",
+      "usdBalance": 3105.23
     },
     {
       "realmId": "2ChWrquGfvcECwA3DRDhkGEzidyc7fTZXxJrkzUvjnJE",
       "name": "ROYAL LION DAO",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "$RIBS",
+      "usdBalance": 113.73
     },
     {
       "realmId": "2TTR5PXXHQFTjYedHfYQpEe1GTwwYFuoywawVnSi1RLb",
       "name": "Panda Fraternity DAO",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "$PANDA",
+      "usdBalance": 3938.29
     },
     {
       "realmId": "7FMLXrTxwEUKoyMJdumd8A2nWkgq4bToQq5Uqds8kRsu",
       "name": "XPWizardsDAO",
-      "solBalance": 0,
+      "symbol": "XPWizards",
       "usdBalance": 0
     },
     {
       "realmId": "12Q9JeKazwCbMDwiK4Hq9eGgCJJaE37Kt79AUpWwUPqP",
       "name": "RadRugsDAO",
-      "solBalance": 0,
-      "usdBalance": 0
+      "symbol": "$RRDG",
+      "usdBalance": 5070.48
     }
   ]
 }
