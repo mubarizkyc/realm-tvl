@@ -3,11 +3,11 @@
 
 get all GovernenceIds on Solana
 
-https://realmtvl-707gj9lxk-mubarizs-projects-34801bc9.vercel.app/api/getprogramid?html=true
+https://realmtvl-4g6gp1ykn-mubarizs-projects-34801bc9.vercel.app/api/getprogramid?html=true
 
 get all data regarding a Governece Id incluing TVL
 
-https://realmtvl-c35tlnn5c-mubarizs-projects-34801bc9.vercel.app/api/getrealms/GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw?html=true
+https://realmtvl-4g6gp1ykn-mubarizs-projects-34801bc9.vercel.app/api/getrealms/GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw?html=true
 
 for use of these endpoints in application skip 
 
@@ -16,23 +16,16 @@ for use of these endpoints in application skip
 ```
 # Updating Data
 
-This repo wll be updated monthly however if you want to update by yourself:
+This repo wll be updated monthly, however if you want to update by yourself:
 
-Set up your mainnet solana_rpc in .env file
-
-Recommended : https://www.helius.dev/
-```console
-REALMS_DATA=mainnet-beta.json
-SOLANA_RPC=YOUR_SOLANA_RPC
-```
-then run:
 
 ```console
-npm install fs path url axios sleep governance-idl-sdk solana/web3.js
+npm install fs path url axios sleep  solana/web3.js
 ```
 ```console
  ts-node index.ts update programid
 ```
+It will take around 10-22 minutes for uodating all data depending upon your network speed
 ```console
 ts-node index.ts update realms
 ```
